@@ -174,16 +174,14 @@ It demonstrates analytical thinking aligned with real-world banking analytics pr
 ## 📊 Dashboard Screenshots
 
 ### Bank Loan Report Summary 
-![Summary](![Bank loan_summary_dashboard](https://github.com/user-attachments/assets/3abeea65-fbc6-43d0-becc-88d76e6b4f4a)
-)
+(![Bank loan_summary_dashboard](https://github.com/user-attachments/assets/3abeea65-fbc6-43d0-becc-88d76e6b4f4a)
 
 ### Bank Loan Report Overview
-![Overview](![Bank loan_overveiw_dashboard](https://github.com/user-attachments/assets/a7518240-4b0d-49bf-8d53-4903a60f2a38)
-)
+(![Bank loan_overveiw_dashboard](https://github.com/user-attachments/assets/a7518240-4b0d-49bf-8d53-4903a60f2a38)
 
 ### Bank Loan Report Details
-![Details](![Bank loan_Detailes_dashboard](https://github.com/user-attachments/assets/288a9f36-95e6-4550-b557-86448cd160cb)
-)
+(![Bank loan_Detailes_dashboard](https://github.com/user-attachments/assets/288a9f36-95e6-4550-b557-86448cd160cb)
+
 
 ---
 
