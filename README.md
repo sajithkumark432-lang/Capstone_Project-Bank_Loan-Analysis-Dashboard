@@ -98,7 +98,7 @@ Executive-level KPIs:
 - Good Loan vs Bad Loan Ratio
 - Loan Status Performance Table
 
-This page provides portfolio health visibility.
+portfolio health visibility.
 
 ---
 
@@ -113,7 +113,7 @@ Analytical breakdown including:
 - Loan Purpose Analysis
 - Home Ownership Distribution
 
-This page supports trend and segmentation analysis.
+trend and segmentation analysis.
 
 ---
 
@@ -123,7 +123,7 @@ This page supports trend and segmentation analysis.
 - Drill-down capability
 - Loan-level performance monitoring
 
-This page supports operational-level analysis.
+operational-level analysis.
 
 ---
 
@@ -171,6 +171,15 @@ This project reflects practical experience in:
 It demonstrates analytical thinking aligned with real-world banking analytics practices.
 
 ---
+
+##  SQL and Domain Documents
+
+### SQL KPI Query Doc:
+Documentation/SQL query document .pdf
+### Domain Doc:
+Documentation/Domain Knowledge Doc.pdf
+
+
 ## 📊 Dashboard Screenshots
 
 ### Bank Loan Report Summary 
